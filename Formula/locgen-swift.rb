@@ -1,7 +1,7 @@
 class LocgenSwift < Formula 
     desc "Localization strings generator for iOS/macOS projects"
     homepage "https://github.com/Holdapp/locgen-swift"
-    url "https://github.com/Holdapp/locgen-swift.git", tag: "1.1.3", revision: "1b3d22e51e17de39a5e4dcc19eeecb7e28cfd4ac"
+    url "https://github.com/Holdapp/locgen-swift.git", tag: "1.1.4", revision: "417cf80a74f7e24b1756109a47bcb298a52fe4d6"
     head "https://github.com/Holdapp/locgen-swift.git"
 
     depends_on xcode: ["13.0", :build]
